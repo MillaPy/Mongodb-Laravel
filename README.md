@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## About Project
+This paper explains the project that has been assigned for second attestation. The main idea behind this project is to explain how different frameworks work with NoSQL databases. Showing, it works as well as with SQL databases, and in this paper, I used Laravel 8 framework and MongoDB Compass (Atlas cloud) as data centre. The project is web application which were created with help of Laravel, and database connection were added while creation. It is contact page management system with admin and user page. Here, is simple CRUD operation were implemented with filtering contacts with teacher or courses they choose, and search aggregation. I created database, and each collection were migrated and populated with fake data. In this paper I will discuss the use of application, database connection and challenges one might face. Moreover, some of examples of project would be inserted as well with code samples.
+The data for project were generated automatically, and store in several collections, yet I have one database, inside where other collections with fake data can be found.
+In folder you can find, two videos: the first one shows the results of code, second one explains the process. The third video is explanation of mongo queries and showing database center. 
+The link for whole project and video defense can be found in my GitHub repository: https://github.com/MillaPy/Mongodb-project .
+Defence -videos, please check the video defenses, as it were too heavy to upload and rest of the report: https://drive.google.com/drive/folders/1QCYVKmwOIhGSBmB1harRL_kRInTInWZr?usp=sharing
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
